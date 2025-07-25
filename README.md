@@ -4,7 +4,29 @@ This **[Astro integration](https://docs.astro.build/en/guides/integrations-guide
 pages when you build your Astro project.
 
 
+# Manuel Install
 
+```
+yarn add astro-llms-txt-generator
+```
+
+//astro.config.mjs
+
+```
+import llmsTxtIntegration from "astro-llms-txt-generator";
+...
+...
+...
+export default defineConfig({
+    ...
+    integrations: [llmsTxtIntegration()],
+    ...
+});
+```
+
+```
+yarn build
+```
 
 ## License
 
