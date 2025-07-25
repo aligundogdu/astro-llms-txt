@@ -1,0 +1,23 @@
+{
+  "name": "astro-llms-txt-generator",
+  "packageName": "astro-llms-txt-generator",
+  "type": "integration",
+  "keywords": [
+    "astro-integration",
+    "seo",
+    "llms",
+    "build"
+  ],
+  "repoUrl": "https://github.com/aligundogdu/astro-llms-txt",
+  "npmUrl": "https://www.npmjs.com/package/astro-llms-txt-generator",
+  "homepageUrl": "https://github.com/aligundogdu/astro-llms-txt#readme",
+  "description": "This Astro integration generates a llms.txt based on your pages when you build your Astro project.",
+  "categories": [
+    "other"
+  ],
+  "technologies": [
+    "typescript"
+  ],
+  "image": "",
+  "badge": ""
+}
