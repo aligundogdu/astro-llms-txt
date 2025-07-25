@@ -1,5 +1,5 @@
 {
-  "name": "astro-llms-txt",
+  "name": "@aligundogdu/astro-llms-txt",
   "version": "0.0.1",
   "description": "This Astro integration generates a llms txt based on your pages when you build your Astro project.",
   "main": "index.js",
